@@ -1,0 +1,4 @@
+/*
+  Este archivo se ha vaciado intencionadamente.
+  Next.js no utiliza un archivo main.jsx como punto de entrada. La estructura se basa en el App Router.
+*/
